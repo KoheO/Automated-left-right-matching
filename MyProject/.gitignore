@@ -1,0 +1,7 @@
+# 無視するディレクトリやファイル
+AppData/
+*.log
+*.tmp
+*.swc
+__pycache__/
+*.pyc
