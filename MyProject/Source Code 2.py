@@ -1,0 +1,1 @@
+pip install git+https://github.com/htem/FANC_auto_recon.git
