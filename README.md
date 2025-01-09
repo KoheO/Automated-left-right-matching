@@ -1,1 +1,1 @@
-[PowerPoint Presentation](https://github.com/KoheO/Automated-left-right-matching/raw/master/Automated-left-right-matching/Automated matching of RightLeft Neurons.pptx)
+(https://github.com/KoheO/Automated-left-right-matching/blob/master/Automated-left-right-matching/Automated%20matching%20of%20RightLeft%20Neurons.pptx)
